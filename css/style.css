@@ -891,3 +891,52 @@ Add a counter to the multi-steps indicator
 #footer .footer-info{
     padding: 30px 0;
 }
+
+
+
+/** MAX CSS **/
+.greyline-2{
+  background: #f5f5f5;
+}
+
+.greyline-2 .breadcrumb {
+text-align: right;
+}
+.greyline-2 .breadcrumb li a {
+    font-size: 18px;
+}
+.greyline-2 h1 {
+    color: #777;
+    margin: 0;
+}
+.greyline-2 .items {
+    margin: 3%;
+}
+
+
+/* CSS used here will be applied after bootstrap.css */
+
+.item .thumb {
+    width: 25%;
+    cursor: pointer;
+    float: left;
+}
+.item .thumb img {
+    width: 100%;
+    margin: 2px;
+}
+.item img {
+    width: 100%;
+}
+
+#thumbcarousel .glyphicon-chevron-left,
+#thumbcarousel .glyphicon-chevron-right{
+    color: #3498db;
+    font-size: 1em;
+}
+#thumbcarousel .glyphicon-chevron-left {
+    left: 580%;
+}
+#thumbcarousel .glyphicon-chevron-right {
+    right: -6%;
+}

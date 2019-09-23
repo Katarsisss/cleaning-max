@@ -1243,6 +1243,12 @@ table.table th {
   border-color: #3498DB;
   color: #ffffff !important;
 }
+
+.btn-default-1{
+  background-color: #3498DB;
+  border-color: #3498DB;
+  color: #ffffff !important;
+}
 .btn-default:hover,
 .btn-default:active,
 .btn-default:focus {
@@ -1422,10 +1428,10 @@ header .line-row {
 	background: #3498DB;
 }
 .topmenu-LIGHT .mega-menu table .tail {
-  border-bottom: 6px solid #509600;
+  border-bottom: 6px solid #428bca;
 }
 .topmenu-LIGHT .mega-menu table .dropdown-menu {
-  background-color: #509600;
+  background-color: #428bca;
 }
 .topmenu-LIGHT .mega-menu table .dropdown-menu li:hover > a,
 .topmenu-LIGHT .mega-menu table .dropdown-menu li.active > a,
@@ -1452,7 +1458,7 @@ header .line-row {
   color: #ffffff;
 }
 .topmenu-COLOR .menu-only {
-  background-color: #509600;
+  background-color: #428bca;
 }
 .topmenu-COLOR .mega-menu table .dropdown-menu li:hover > a,
 .topmenu-COLOR .mega-menu table .dropdown-menu li.active > a,
@@ -1487,7 +1493,7 @@ header .line-row {
   background-color: #3498DB;
 }
 .bx_filter .bx_ui_slider_track .bx_ui_slider_handle {
-  border-color: #509600;
+  border-color: #428bca;
 }
 .bx_filter input[type="checkbox"] + label:before,
 .filter input[type="radio"] + label:before,
@@ -1568,7 +1574,7 @@ footer .info .phone .info_ext div.popup_form_ext span {
   background-color: #3498DB;
 }
 .side-menu .submenu > li.active > a {
-  color: #509600;
+  color: #428bca;
 }
 .side-menu .submenu > li > a:hover {
   color: #3498DB;
@@ -1722,6 +1728,10 @@ section.toggle.active > label {
 }
 .select-outer i.fa {
   color: #3498DB;
+}
+
+.bx_filter.front{
+	margin-bottom: 40px;
 }
 
 /* End */
