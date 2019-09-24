@@ -957,3 +957,8 @@ text-align: right;
   font-weight: 500;
   font-size: 36px;
 }
+
+.profit_block i{
+  font-size: 44px;
+  color: #464646;
+}
