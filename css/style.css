@@ -940,3 +940,20 @@ text-align: right;
 #thumbcarousel .glyphicon-chevron-right {
     right: -6%;
 }
+
+.bx-google-map{
+   background:rgba(0,0,0,.5);
+}
+
+.contacts{
+  margin-top: 30px;
+}
+
+.contact-address-block{
+  padding: 14px 0;
+}
+
+.greyline-2 h1{
+  font-weight: 500;
+  font-size: 36px;
+}
