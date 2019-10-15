@@ -483,9 +483,9 @@
     padding: 10px 80px;
 }
 
-.maxwidth-theme .col-md-4{
+/*.maxwidth-theme .col-md-4{
    padding-left: 65px;
-}
+}*/
 
 .partners, .work-stages, .reviews{
     padding: 30px 0;
@@ -955,7 +955,7 @@ text-align: right;
 
 .greyline-2 h1{
   font-weight: 500;
-  font-size: 36px;
+  font-size: 30px;
 }
 
 .profit_block i{
