@@ -1015,7 +1015,7 @@ text-align: right;
 }
 
 * + .owl-carousel {
-  margin-top: 55px;
+  margin-top: 15px;
 }
 
 * + h6, .terms-list * + dt {
@@ -1423,4 +1423,24 @@ text-align: right;
 
 .info h2{
    font-size: 18px;
+}
+
+.move-left{
+    font-size: 17px;
+}
+
+.move-left a{
+    color: #fff;
+}
+
+.move-left a:hover {
+    color: #fff;
+}
+
+#axis:hover .move-left {
+    transform: translate(0,-155px);
+    -webkit-transform: translate(0,-155px); 
+    -o-transform: translate(0,-150px); 
+    -moz-transform: translate(0,-155px);
+    transition: all 0.5s ease 0s;
 }
